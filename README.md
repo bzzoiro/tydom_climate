@@ -21,7 +21,7 @@ Tydom Climate
 
 ![alt text](https://i.ibb.co/rMJbfQy/Capture.png)
 
-![alt text]("https://i.ibb.co/DGSYhxJ/Capture2.png)
+![alt text](https://i.ibb.co/DGSYhxJ/Capture2.png)
 
 ## Configuration
 **Example configuration.yaml:**
