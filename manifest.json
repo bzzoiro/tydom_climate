@@ -1,0 +1,9 @@
+{
+  "domain": "tydom_climate",
+  "name": "Climate Group",
+  "documentation": "https://github.com/daenny/climate_group",
+  "dependencies": [],
+  "codeowners": ["@bzzoiro"],
+  "requirements": ["websockets==8.1"],
+  "homeassistant": "0.96.0"
+}
