@@ -19,7 +19,9 @@ Install the component manually by putting the files from `/custom_components/tyd
 ## Screenshot
 Tydom Climate
 
-Soon
+![alt text](https://i.ibb.co/rMJbfQy/Capture.png)
+
+![alt text]("https://i.ibb.co/DGSYhxJ/Capture2.png)
 
 ## Configuration
 **Example configuration.yaml:**
